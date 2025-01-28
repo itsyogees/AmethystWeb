@@ -7,8 +7,8 @@ const Footer = dynamic(() => import("./components/Footer/page"));
 
 const ClientProvider = dynamic(() => import("./components/ClientProvider/page"));
 export const metadata = {
-  title: "Treasuremount",
-  description: "Treasuremount website",
+  title: "Amethyst",
+  description: "Amethyst website",
 };
 
 export default function RootLayout({ children }) {
